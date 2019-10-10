@@ -1,3 +1,20 @@
 .image-wraper{
 	width: 100%;
 }
+.logo img{
+	height: 80px;
+}
+.nav-a{
+	color: #3D58A6;
+	font-size: 22px;
+}
+.active{
+	color: #EE4036;
+}
+.test{
+	border: 3px solid red;
+/*	margin:30px 40px 0 15px;*/
+	/*padding-top:50px;*/
+	/*padding-left: 40px;*/
+	text-align: center;
+}
